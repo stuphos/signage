@@ -1,2 +1,15 @@
 - 5f0b7e26ad9f89e9af7adeecd8303d75
 
+- at: 'Sun Nov 19 12:15:01 PM EST 2023'
+  items: [external: dfd84d9f8227d1f01c3e501d39dbf4438f380348dd332462c93d7450120c4cdb]
+
+- at: 'Sun Nov 19 12:15:01 PM EST 2023'
+  items:
+	- name: elemental
+	  value: a6992218f1f6a17065c6aeca0316ddfdd109bf1b
+
+	- name: os
+	  value: ce767f2727b1da5aa125f64f7df45325b88746d6
+
+	- name: deployment
+	  value: 2aefa4564c9c0579a7f8a8eaa7407afeb8ddef59
