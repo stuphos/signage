@@ -6,4 +6,4 @@
 	method: move/import
 
 - value: c13cc9704bb003baf8021028973c8b713bd4308f
-  method: space
+  invariant: space
