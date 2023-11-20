@@ -7,3 +7,6 @@
 
 - value: c13cc9704bb003baf8021028973c8b713bd4308f
   invariant: space
+
+- singulate:
+	value: 7467ac27037c287b821dd9ccee7cc3af195fee75
