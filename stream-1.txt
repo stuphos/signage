@@ -1,5 +1,11 @@
 - notes: f290f5b92a19e052b1ade47634059d744529f203
 
+- conditionalization:
+	node: 918acebd51fa7a8bc49ca967c22b3f1ebb8dc3e1
+
+	compile.definition:
+	  value: 66cd86aa49af0a0cff752ffb5b0fad725423bc9b
+
 - clientIDE: c719e65b48daf80fd7097958333878700c205204
 - clientIDE:
 	value: 47fc309c5355977ddee99c943a9a9a17b2cbf908
@@ -12,6 +18,3 @@
 
 - singulate:
 	value: 7467ac27037c287b821dd9ccee7cc3af195fee75
-
-- compile.definition:
-	value: 66cd86aa49af0a0cff752ffb5b0fad725423bc9b
