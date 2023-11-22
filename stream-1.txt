@@ -12,3 +12,6 @@
 
 - singulate:
 	value: 7467ac27037c287b821dd9ccee7cc3af195fee75
+
+- compile.definition:
+	value: 66cd86aa49af0a0cff752ffb5b0fad725423bc9b
