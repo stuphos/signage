@@ -5,6 +5,8 @@
 	value: 47fc309c5355977ddee99c943a9a9a17b2cbf908
 	method: move/import
 
+- cpu-stream: d65d915567109a1c3fc589911a1587586d4fa4d4
+
 - value: c13cc9704bb003baf8021028973c8b713bd4308f
   invariant: space
 
