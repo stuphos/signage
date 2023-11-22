@@ -18,3 +18,6 @@
 
 - singulate:
 	value: 7467ac27037c287b821dd9ccee7cc3af195fee75
+
+- synchronization-durability:
+	value: 1828c38a6e2281d4fb6040cb06a37a7b5eafda21
