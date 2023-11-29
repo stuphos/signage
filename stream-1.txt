@@ -6,6 +6,8 @@
 	compile.definition:
 	  value: 66cd86aa49af0a0cff752ffb5b0fad725423bc9b
 
+- supplemental-isolate
+
 - clientIDE: c719e65b48daf80fd7097958333878700c205204
 - clientIDE:
 	value: 47fc309c5355977ddee99c943a9a9a17b2cbf908
