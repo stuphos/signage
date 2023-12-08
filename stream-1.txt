@@ -6,7 +6,7 @@
 	compile.definition:
 	  value: 66cd86aa49af0a0cff752ffb5b0fad725423bc9b
 
-- supplemental-isolate
+- unified-cloud: c9b6b3e5a69fb1fbe5b09567743f859796e5706c
 
 - clientIDE: c719e65b48daf80fd7097958333878700c205204
 - clientIDE:
